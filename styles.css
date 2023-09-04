@@ -1,0 +1,154 @@
+body {
+  margin: 20;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #333;
+  color: #fff;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-list li {
+  padding: 10px 20px;
+}
+
+.nav-list li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.nav-list li a:hover {
+  text-decoration: underline;
+}
+
+.welcome-message {
+  max-width: auto; /* Ajusta el valor según tus preferencias */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-top: 30px;
+}
+
+p {
+  font-size: 18px;
+  margin-top: 10px;
+  width: 50%; /* Ajusta el ancho del párrafo */
+  float: left; /* Alinea el párrafo a la izquierda */
+}
+
+.buttons {
+  float: left; /* Alinea los botones a la izquierda */
+  margin: 20px;
+  clear: left; /* Limpia el float para que los botones estén debajo */
+}
+
+.button {
+  display: inline-block; /* Cambia el display para que los botones sean bloques */
+  margin-bottom: 10px; /* Agrega espacio entre los botones */
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border: 2px solid #fff;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #fff;
+  color: #333;
+}
+
+/* ... Otros estilos ... */
+
+.registration-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* ... Otros estilos ... */
+/* ... Otros estilos ... */
+
+.login-form {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-heading {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+p {
+  margin-top: 15px;
+}
+
+/* ... Otros estilos ... */
+/* ... Otros estilos ... */
+
+
